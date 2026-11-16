@@ -1,0 +1,19 @@
+# 用 references/research-handoff.md 中约定的字段填写项目交接。
+schema_version: "1.0"
+project:
+  name: null
+  revision: 1
+  previous_revision: null
+  as_of: null
+  track: null
+decision:
+  question: null
+  audience: null
+research_questions: []
+sources: []
+findings: []
+data_conditions: []
+candidate_directions: []
+open_questions: []
+next_step: null
+changes: []

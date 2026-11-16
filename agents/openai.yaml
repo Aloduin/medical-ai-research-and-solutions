@@ -1,0 +1,13 @@
+interface:
+  display_name: 医疗 AI 调研与方案设计
+  short_description: 从医疗项目需求出发，完成专业调研、技术论证、首期方案设计与反馈迭代
+  default_prompt: 使用 $medical-ai-research-and-solutions，根据这份院方会议纪要确定研究问题、核对数据条件，并给出首期验证方案。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
